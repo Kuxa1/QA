@@ -1,6 +1,6 @@
 # Test Cases
 
-This folder contains manual and automated test cases for different projects and features. The cases are presented in Excel format.
+This folder contains manual and automated test cases for different projects and features. All cases are presented in Excel format, exceot for the template(also available in a Markdown file).
 
 ## Purpose
 Test cases define specific conditions and steps under which a feature is tested to ensure it meets functional and non-functional requirements.
