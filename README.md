@@ -4,17 +4,17 @@ This folder serves as the central location for all quality assurance documentati
 
 ## 📁 Folder Structure
 
-- **Test Plans/**  
-  Contains high-level testing strategies and documentation outlining scope, goals, risks, and approaches for different features or projects.
-
-- **Test Cases/**  
-  Includes detailed manual and automated test cases used to verify functional and non-functional requirements.
+- **Automation Scripts/**  
+  Contains automated test scripts, frameworks, and configuration files (e.g., Cypress, Selenium) used to run regression or integration tests.
 
 - **Bug Reports/**  
   Structured reports of issues and defects found during QA cycles, including severity, steps to reproduce, and current status.
 
-- **Automation Scripts/**  
-  Contains automated test scripts, frameworks, and configuration files (e.g., Cypress, Selenium) used to run regression or integration tests.
+- **Test Cases/**  
+  Includes detailed manual and automated test cases used to verify functional and non-functional requirements.
+
+- **Test Plans/**  
+  Contains high-level testing strategies and documentation outlining scope, goals, risks, and approaches for different features or projects.
 
 ## 🧭 Purpose
 
