@@ -1,0 +1,13 @@
+| ID:                                                  |
+| ---------------------------------------------------- |
+| Sections                                             | Sub-elements    |
+| Mission (What to test and why)                       | Why             | Business Value     | Goals          | Quality Attributes to focus | Introduction           |           |
+|                                                      |                 |                    |                |                             |
+| Coverage (what do we test & what do we not test)     | What to Test    | What Not to Test   | Entry Criteria | Exit Criteria               |                        |
+|                                                      |                 |                    |                |
+| Resources (who, what, when do we need to test)       | Team(QA) People | Out of Team People | Dependencies   | Schedule                    | Devices & Environments | Tools     |
+|                                                      |                 |                    |                |                             |                        |
+| Strategy (how do we test & testing results)          | Approach        | Deliverables       | Metrics        |                             |
+|                                                      |                 |                    |
+| Problems (what can stop us and how do we prevent it) | Risks           | Blind Spots        |                |
+|                                                      |                 |
