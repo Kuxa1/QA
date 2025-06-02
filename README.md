@@ -1,6 +1,6 @@
 # QA Repository
 
-This folder serves as the central location for all quality assurance documentation and assets across projects.
+This folder serves as the central location for all quality assurance documentation and assets across projects. It will be extended with additional test cases, scripts, or plans as the project evolves. 
 
 ## 📁 Folder Structure
 
@@ -30,9 +30,3 @@ Some tools commonly used across subfolders:
 - **Manual Testing:** Jira, Excel/Markdown
 - **Automation:** Selenium(Python & Java)
 - **Bug Tracking:** Jira
-
-## 👥 Contribution
-
-This folder can be extended with additional test cases, scripts, or plans as the project evolves. Please follow consistent naming conventions and folder organization when adding new content.
-
----
